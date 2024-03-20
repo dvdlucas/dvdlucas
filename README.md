@@ -1,6 +1,6 @@
 ### Olá, eu sou o David Lucas
 
-- 🔭 Atualmente trabalho como FullStack
+- 🔭 Desenvolvedor Web com enfase em Backend
 - 🌱 Estudante de C#, Node, JavaScript e React
 
 
