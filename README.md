@@ -1,9 +1,9 @@
-# 👾 Olá, eu sou o David Lucas, Seja Bem Vindo(a)!
+### 👾 Olá, eu sou o David Lucas, Seja Bem Vindo(a)!
 
- ## 🔭 Desenvolvedor Web com ênfase em Backend
- ### 🌱 Estudante de C#, Node, JavaScript e React
+ #### 🔭 Desenvolvedor Web com ênfase em Backend
+ #### 🌱 Estudante de C#, Node, JavaScript e React
 
-# ⚒️ Tecnologias e Ferramentas
+### ⚒️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dvd-Js" height="65" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
