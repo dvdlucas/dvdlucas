@@ -1,7 +1,7 @@
 ### 👾 Olá, eu sou o David Lucas, Seja Bem Vindo(a)!
 
- #### 🔭 Desenvolvedor Web com ênfase em Backend
- #### 🌱 Estudante de C#, Node, JavaScript e React
+ #### 🔭 Desenvolvedor Backend
+ #### 🌱 Estudante de C#, Docker, AWS e Kubernetes
 
 ### ⚒️ Tecnologias e Ferramentas
 
